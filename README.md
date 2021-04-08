@@ -4,7 +4,7 @@ The purpose of this project is to develop a system design especially for car ren
 
 # Design
 
-Frontend - HTML5 and CSS5<br>
+Frontend - HTML5 and CSS3<br>
 Backend - PHP<br>
 Database - MySQL
 
